@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="insert_error_toast_msg">Cannot insert log</string>
+    <string name="title_home">Home</string>
+    <string name="chb_info">Info</string>
+    <string name="chb_invite">Invite</string>
+    <string name="chb_plan">Plan Done</string>
+    <string name="et_name_hint">Name</string>
+    <string name="et_number_hint">Number</string>
+    <string name="bt_save_log">Save Log</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tv_system_count_of_week">System Count Of Week</string>
+    <string name="et_system_count_of_week">System Count</string>
+    <string name="tv_expected_closing">Expected Closings This Week</string>
+    <string name="et_expected_closing">Exp. Closings</string>
+    <string name="tv_actual_closing">Closings Happened</string>
+    <string name="et_actual_closing">No.of Closings</string>
+    <string name="tv_uv_uploaded">UV\'s Uploaded</string>
+    <string name="et_uv_uploaded">Number of UV\'s</string>
+    <string-array name="week">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Delhi</item>
+        <item>Bangalore</item>
+        <item>Pune</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Mumbai</item>
+        <item>Basti</item>
+        <item>Kolkata</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Outside India</item>
+        <item>OtherCity</item>
+    </string-array>
+    <string-array name="zone">
+        <item>HOT</item>
+        <item>OYE-BUDDY</item>
+        <item>WARM</item>
+        <item>COLD</item>
+    </string-array>
+    <string-array name="callType">
+        <item>INFO</item>
+        <item>INVITE</item>
+        <item>CONNECT_UP</item>
+        <item>PROSPECTING</item>
+        <item>EDIFICATION</item>
+        <item>CLOSING</item>
+    </string-array>
+</resources>
